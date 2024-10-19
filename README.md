@@ -10,13 +10,13 @@ This repository demonstrates the implementation of the **Quantum Fourier Transfo
 ## Implementation
 The project includes the creation of a quantum circuit with **5 qubits**. The following key components are implemented:
 
-### Hadamard Gates
+--**Hadamard Gates**
 Used to create superposition on the qubits.
 
-### Controlled Phase Gates
+--**Controlled Phase Gates**
 Apply rotations that adjust the phase of qubits based on their states.
 
-### Measurement
+--**Measurement**
 Measure the final state of the qubits and output the results.
 
 ## Circuit Visualization
